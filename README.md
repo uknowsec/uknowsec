@@ -17,7 +17,7 @@ Notes:
 - ✨ [Frida-Hook-In-Java-Notes](https://github.com/uknowsec/Frida-Hook-In-Java-Notes) ![](https://img.shields.io/github/stars/uknowsec/Frida-Hook-In-Java-Notes)
       
 Tools:
-- ✨ [SharpDecryptPwd](https://github.com/uknowsec/SharpDecryptPwd)  ![](https://img.shields.io/github/stars/uknowsec/SharpDecryptPwd)
+- ✨ [SharpDecryptPwd](https://github.com/uknowsec/SharpDecryptPwd)  ![](https://img.shields.io/github/stars/uknowsec/SharpDecryptPwd) ![](https://img.shields.io/github/languages/top/uknowsec/SharpDecryptPwd)
 
 
 ![Uknow's github stats](https://github-readme-stats.vercel.app/api?username=uknowsec&show_icons=true&theme=dracula)

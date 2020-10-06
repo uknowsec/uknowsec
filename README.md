@@ -19,7 +19,7 @@ Notes:
 - ✨ [Frida-Hook-In-Java-Notes](https://github.com/uknowsec/Frida-Hook-In-Java-Notes)   ![](https://img.shields.io/github/stars/uknowsec/Frida-Hook-In-Java-Notes)
      
 <body>
-<main style="width: 100%;display: flex">
+<div style="width: 100%;display: flex">
 <div style="width: 400px;">
 <p>Tools:
  Csharp:</p>
@@ -54,5 +54,5 @@ Notes:
 <li>✨ <a href='https://github.com/uknowsec/frpModify'>frpModify</a>   <img src="https://img.shields.io/github/stars/uknowsec/frpModify" referrerpolicy="no-referrer"></li>
 
 </ul>
-</main>
+</div>
 </body>

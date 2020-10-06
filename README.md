@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Coding, Pentest and Cooking
 - 👀 My Blog: uknowsec.cn
 - 📫 How to reach me: uknowsec@gmail.com
-- [![GitHub Uknow](https://img.shields.io/github/followers/uknowsec?label=follow%20github&style=flat-square)](https://github.com/uknowsec)
+- [![GitHub Uknow](https://img.shields.io/github/followers/uknowsec?label=follower%20github&style=flat-square)](https://github.com/uknowsec)
 
 Here are some pentest tools and Notes you interested：
 

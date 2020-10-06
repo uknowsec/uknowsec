@@ -18,11 +18,6 @@ Notes:
 - ✨ [ReflectiveDLLInjection-Notes](https://github.com/uknowsec/ReflectiveDLLInjection-Notes)   ![](https://img.shields.io/github/stars/uknowsec/ReflectiveDLLInjection-Notes)
 - ✨ [Frida-Hook-In-Java-Notes](https://github.com/uknowsec/Frida-Hook-In-Java-Notes)   ![](https://img.shields.io/github/stars/uknowsec/Frida-Hook-In-Java-Notes)
      
-<!doctype html>
-<html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>11</title></head>
 <body>
 <main style="width: 100%;display: flex">
 <div style="width: 400px;">
@@ -61,4 +56,3 @@ Notes:
 </ul>
 </main>
 </body>
-</html>

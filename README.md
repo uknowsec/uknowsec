@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=uknowsec&show_icons=true&theme=radical" width="380">
-<img align='right' src="https://profile-counter.glitch.me/uknowsec/count.svg" width="100">
 
 - 🌱 I’m currently learning Coding, Pentest and Cooking
 - 👀 My Blog: uknowsec.cn
@@ -37,4 +36,4 @@ Tools:
 | ✨ [SharpZip](https://github.com/uknowsec/SharpZip)   ![](https://img.shields.io/github/stars/uknowsec/SharpZip) |                                                              |                                                              |
 | ✨ [Fofa-gui](https://github.com/uknowsec/Fofa-gui)   ![](https://img.shields.io/github/stars/uknowsec/Fofa-gui) |                                                              |                                                              |
 
-
+<img align='right' src="https://profile-counter.glitch.me/uknowsec/count.svg" width="200">

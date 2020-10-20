@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=uknowsec&show_icons=true&theme=radical" width="380">
 
+<img align='right' src="https://profile-counter.glitch.me/uknowsec/count.svg" width="380">
+
 - 🌱 I’m currently learning Coding, Pentest and Cooking
 - 👀 My Blog: uknowsec.cn
 - 📫 How to reach me: uknowsec@gmail.com
@@ -37,5 +39,3 @@ Tools:
 | ✨ [Fofa-gui](https://github.com/uknowsec/Fofa-gui)   ![](https://img.shields.io/github/stars/uknowsec/Fofa-gui) |                                                              |                                                              |
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/uknowsec/count.svg)

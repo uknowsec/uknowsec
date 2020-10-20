@@ -35,3 +35,7 @@ Tools:
 | ✨ [SharpOSS](https://github.com/uknowsec/SharpOSS)   ![](https://img.shields.io/github/stars/uknowsec/SharpOSS) |                                                              |                                                              |
 | ✨ [SharpZip](https://github.com/uknowsec/SharpZip)   ![](https://img.shields.io/github/stars/uknowsec/SharpZip) |                                                              |                                                              |
 | ✨ [Fofa-gui](https://github.com/uknowsec/Fofa-gui)   ![](https://img.shields.io/github/stars/uknowsec/Fofa-gui) |                                                              |                                                              |
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/uknowsec/count.svg)

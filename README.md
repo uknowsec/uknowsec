@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=uknowsec&show_icons=true&theme=radical" width="380">
-
-<img align='right' src="https://profile-counter.glitch.me/uknowsec/count.svg" width="380">
+<img align='right' src="https://profile-counter.glitch.me/uknowsec/count.svg" width="100">
 
 - 🌱 I’m currently learning Coding, Pentest and Cooking
 - 👀 My Blog: uknowsec.cn
